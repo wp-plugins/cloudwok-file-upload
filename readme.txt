@@ -37,6 +37,7 @@ How to install the plugin and get it working in 5 minutes.
 **Install the plug-in via WordPress Plugin Directory:**
 
 The easiest way to install the plugin is through the "Plugins" menu item on the left-hand sidebar in your WordPress admin panel (see screenshots).
+
 1. Click on "Plugins"
 2. Click on "Add New"
 3. Search for the term "CloudWok"
@@ -76,7 +77,7 @@ You can customize the message form as follows to let uploaders enter their e-mai
 
 Thereby, you gain the ability to more easily correlate files that are uploaded to your Dropbox, Google Drive, etc. with the name and/or e-mail of the person who uploaded these files.
 
-By default, a small "powered by" text-link to www.cloudwok.com is disabled. If you like our plug-in, we would appreciate it if you would enable the link via `[cloudwok wok_id="YOUR_WOK_ID" show_powered_by_link="True"]`.
+By default, a small "powered by" text-link to www.cloudwok.com is disabled. If you like our plug-in, we would appreciate it if you would enable the link via `[cloudwok wok_id="YOUR_WOK_ID" show_powered_by_link="True"]`. Send me a link to your WordPress site with enabled "powered by" link, and I'd be happy to send you a small coupon code gift back: markus@cloudwok.com. Thanks!
 
 == Frequently Asked Questions ==
 
