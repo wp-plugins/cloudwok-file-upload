@@ -3,8 +3,8 @@ Contributors: markusklems
 Donate link: http://www.cloudwok.com/
 Tags: upload, file upload, dropbox, google drive, microsoft onedrive, box, s3, facebook, upload form, feedback
 Requires at least: 3.0.0
-Tested up to: 4.2.2
-Stable tag: 0.3.3
+Tested up to: 4.2.3
+Stable tag: 0.3.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -91,6 +91,8 @@ So far no questions. Send us an e-mail if you have an issue: markus@cloudwok.com
 
 == Changelog ==
 
+= 0.3.4 =
+Added feature to customize labels and texts (see here: https://wordpress.org/support/topic/custom-text-translation). This will likely be replaced in future versions by a central customization admin page.
 = 0.3.3 =
 Added new features to optionally show first name, last name, and e-mail address as input fields of the message form. Use it for example like this: `[cloudwok wok_id="YOUR_WOK_ID" show_form="True" show_form_input_name="True"]`
 = 0.3.2 =
